@@ -1,6 +1,6 @@
-# Foobar
+# Facebook-Bot
 
-Foobar is a Python library for dealing with word pluralization.
+Facebook-Bot is a Facebook Messaging Tool
 
 ## Installation
 
@@ -23,8 +23,11 @@ Please make sure to update tests as appropriate.
 ## Support Me :)
 
 BTC: 1PzxhcvqkaV2TmuNCDaT51hxcS7SXRUQJH
+
 ETHER: 0xF1f8e2A4Cf5aDbad938478DfbB546dD90e234a77
+
 BTC CASH: qr7y37fwt2ystzrzcv86vf2x33jd2s3ljgcxgkdd9c
+
 STELLAR: GAFVAPUP7J6PNUP6CYIZOSOIQQHD6PNVZKKC44A4Q6TMXYIMXD4FRUYT
 
 You dont have to donate... But it would be appriciated
